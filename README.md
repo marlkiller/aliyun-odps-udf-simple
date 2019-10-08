@@ -1,5 +1,8 @@
 # aliyun-odps-udf-simple
 
+
+// @Resolve("string->array<string>")
+
 目前支持的类型有：
 1. 自定义函数（UDF/UDAF/UDTF）、
 
